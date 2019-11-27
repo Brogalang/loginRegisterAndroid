@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_login" type="id" />
+    <item name="txt_link_signup" type="id" />
+    <item name="et_input_email" type="id" />
+    <item name="et_input_password" type="id" />
+    <item name="btn_reg_sign_up" type="id" />
+    <item name="txt_reg_link_login" type="id" />
+    <item name="et_reg_input_email" type="id" />
+    <item name="et_reg_input_name" type="id" />
+    <item name="et_reg_input_password" type="id" />
+    <item name="btn_logout" type="id" />
+</resources>
