@@ -1,9 +1,5 @@
 package com.retaurant.galang.model;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.os.Bundle;
-
 import com.google.gson.annotations.Expose;
 
 public class Login {

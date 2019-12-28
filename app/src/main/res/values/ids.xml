@@ -10,4 +10,12 @@
     <item name="et_reg_input_name" type="id" />
     <item name="et_reg_input_password" type="id" />
     <item name="btn_logout" type="id" />
+    <item name="menu_account" type="id" />
+    <item name="et_name" type="id" />
+    <item name="et_old_password" type="id" />
+    <item name="et_new_password" type="id" />
+    <item name="btn_change_profil" type="id" />
+    <item name="tv_name" type="id" />
+    <item name="tv_user_id" type="id" />
+    <item name="btn_change" type="id" />
 </resources>
